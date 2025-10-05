@@ -9,8 +9,10 @@ Abra o notebook diretamente no Google Colab
 
 ## Caso deseje executar localmente:
 
+```bash
 pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 jupyter notebook
+```
 
 
 Em seguida, abra o arquivo CP2-Sers.ipynb.
