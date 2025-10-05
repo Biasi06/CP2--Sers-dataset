@@ -76,4 +76,5 @@ Compreender como dados de energia podem apoiar decisões sustentáveis.
 - João Pedro da Silva Costa | RM: 565031
 - Pedro Noronha dos Santos | RM: 564572
 - Rodrigo Campos Cordeiro | RM: 566386
+  
 TURMA: CCPO
