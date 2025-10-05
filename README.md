@@ -68,3 +68,12 @@ Diferenciar tarefas de classificação e regressão.
 Aplicar bibliotecas de análise e aprendizado de máquina em Python.
 
 Compreender como dados de energia podem apoiar decisões sustentáveis.
+
+## Autores
+
+- Gabriel De Biasi Couto | RM: 563247
+- Lucas Mendes Moraes| 563667
+- João Pedro da Silva Costa | RM: 565031
+- Pedro Noronha dos Santos | RM: 564572
+- Rodrigo Campos Cordeiro | RM: 566386
+TURMA: CCPO
