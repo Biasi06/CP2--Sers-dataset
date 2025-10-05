@@ -50,7 +50,7 @@ Objetivo: Prever a potência gerada (kW) a partir das condições do vento.
 Principais variáveis: Wind Speed (m/s), Wind Direction (°), Theoretical_Power_Curve (KWh), LV ActivePower (kW).
 # Resultados da Parte 1
 
-Parte 1: modelo Random Forest se destaca como a melhor escolha por duas razões principais
+Parte 1: modelo Random Forest se destaca como a melhor escolha por duas razões principais:
 
 Maior Poder Explicativo: Ele consegue capturar quase 75% das razões pelas quais o consumo de energia varia, o que é um resultado robusto.
 
