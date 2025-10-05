@@ -56,7 +56,9 @@ Maior Poder Explicativo: Ele consegue capturar quase 75% das razões pelas quais
 
 Maior Precisão Preditiva: Ele produz as previsões mais próximas dos valores reais, com o menor erro médio.
 
-Parte 2:
+Parte 2: O modelo de Árvore de Decisão apresentou os melhores resultados em todas as métricas avaliadas. Com 94,1% de acurácia e um F1-Score de 0.941, ele é superior tanto ao kNN quanto à Regressão Logística na tarefa de classificar corretamente a estabilidade da rede.
+
+Um F1-Score de 0.941 significa que o modelo tem um excelente equilíbrio entre precisão (não classificar uma rede estável como instável) e recall (identificar corretamente todas as redes que estão de fato instáveis). Para uma aplicação crítica como a estabilidade de uma rede elétrica, errar um diagnóstico de "instável" (um falso negativo) pode ser muito perigoso. O alto desempenho da Árvore de Decisão indica que ela é a mais robusta e, portanto, a mais confiável para esta tarefa específica.
 
 ## Modelos Utilizados
 
