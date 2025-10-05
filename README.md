@@ -1,4 +1,4 @@
-Soluções em Energias Renováveis e Sustentáveis
+### Soluções em Energias Renováveis e Sustentáveis
 Instruções da Entrega
 
 Este repositório contém um notebook Jupyter (CP2-Sers.ipynb) com a resolução dos exercícios propostos sobre regressão e classificação aplicadas a dados de energia solar, eólica e elétrica.
